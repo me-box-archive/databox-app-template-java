@@ -1,4 +1,4 @@
-package uk.databoxproject.databox-app-template-java;
+package uk.databoxproject.databox_app_template_java;
 
 /**
  * Example app

@@ -1,4 +1,4 @@
-package uk.databoxproject.databox-app-template-java;
+package uk.databoxproject.databox_app_template_java;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
