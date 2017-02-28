@@ -1,0 +1,26 @@
+{
+	"manifest-version": 1,
+
+	"name": "databox-app-template-java",
+	"databox-type": "app",
+	"version": "0.1.0",
+
+	"description": "A template Databox app in Java",
+	"author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+	"license": "MIT",
+	"tags": [
+		"template",
+		"app",
+		"java"
+	],
+
+	"homepage": "https://github.com/me-box/databox-app-template-java",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/me-box/databox-app-template-java"
+	},
+
+	"packages": [],
+	"allowed-combinations": [],
+	"datasources": []
+}
